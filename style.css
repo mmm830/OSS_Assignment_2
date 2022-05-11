@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF Bold';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+#upperTitle {
+    padding: 3rem;
+    border-top: 3px solid #F285B8;
+    border-bottom: 3px solid #A2F2DC;
+}
+
+#title {
+    font-family:'NEXON Lv1 Gothic OTF Bold';
+    font-size: 3rem;
+}
+
+#myName {
+    color:black;
+}
+
+.bi-star-fill {
+    font-size:2rem;
+    color: #F2EA79;
+}
+.bi-stars {
+    font-size:3rem;
+    color: #F285B8;
+}
+.bi-bookmark-star-fill {
+    font-size: 2rem;
+    color: #F285B8;
+}
+ul.personalInfo{
+    font-family: 'NEXON Lv1 Gothic OTF';
+    list-style: none;
+}
+
+#leftImg {
+    width:55%;
+}
+
+#myphoto {
+    width:100%;
+}
+
+#rightDes {
+    width:45%;
+}
+
+.basicInfo {
+    font-family:'NEXON Lv1 Gothic OTF Bold';
+    text-align:left!important;
+}
+
+#basicTable {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    
+}
+
+#greetings {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    font-size:1.1rem;
+    text-align:justify;
+    border-left: 3px solid #F2EA79;
+    padding-left: 7px;
+}
+
+th {
+    padding: 0.25rem;
+    text-align: center;
+}
+
+a {
+    color: #9E9BF2;
+}
+
+a:active {
+    color:#A2F2DC;
+}
